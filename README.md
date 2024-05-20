@@ -1,2 +1,2 @@
-# Sommatif2
-Sommatif 2 Kevin Alexis Castillo Gonzalez
+# TP2
+TP2 2 Kevin Alexis Castillo Gonzalez
